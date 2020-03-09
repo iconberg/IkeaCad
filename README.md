@@ -4,6 +4,8 @@ Bleander addon for creating simple geometry for furniture.
 ## short usage description
 Executing the addon will create and open a textfile for editing. Input your desired objects. Close the editor and the addon create the objects. Unsaved .blend-files create a temporary file, saved files get a ikeacad.txt file beside the .blend-file.
 
+Example: https://github.com/iconberg/IkeaCad/blob/master/media/ikeacad_example1.webm
+
 ### create/rotate/place
 ```
 <dimension>x<dimension>   create plane, starting entry with a dimension is a must
