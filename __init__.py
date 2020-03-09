@@ -7,7 +7,7 @@ bl_info = {
     "description": "Create simple meshes from csv file",
     "warning": "BETA",
     "support": "COMMUNITY", 
-    "wiki_url": "",
+    "wiki_url": "https://github.com/iconberg/IkeaCad",
     "category": "Add Mesh",
 }
 
