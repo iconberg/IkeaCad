@@ -6,6 +6,8 @@ Executing the addon will create and open a textfile for editing. Input your desi
 
 Example: https://github.com/iconberg/IkeaCad/blob/master/media/ikeacad_example1.webm
 
+Download: https://github.com/iconberg/IkeaCad/blob/master/media/ikeacad.zip
+
 ### create/rotate/place
 ```
 <dimension>x<dimension>   create plane, starting entry with a dimension is a must
